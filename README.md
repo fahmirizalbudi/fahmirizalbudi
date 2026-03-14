@@ -1,5 +1,8 @@
-<h2>Hello!</h2>
+I'm **`Fahmirizal Budi Ramadhan`**, a passionate **software engineering student dedicated to building scalable**, efficient, and elegant solutions from [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I specialize in web and mobile development, creating applications that combine clean architecture with real-world impact. Every repository on my profile reflects my curiosity, problem-solving skills, and commitment to writing maintainable, **`high quality code`**. I actively explore new technologies, bridge the gap between academic theory and practical implementation, and continuously refine my craft.
 
-I am a Software Engineering student from [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I build web and mobile applications with a strong focus on usability, performance, and real-world problem solving. My passion lies in turning ideas into reliable digital products, bridging the gap between academic theory and practical implementation.
+Over time, I have built projects spanning web applications, mobile apps, and experimental tools, all aimed at solving meaningful problems and learning in the process. I enjoy collaborating with fellow developers, sharing knowledge, and exploring innovative ways to push the boundaries of modern software development.
 
-I’m always open to collaboration, freelance opportunities, and meaningful discussions. You can find and reach me through my [GitHub](https://github.com/fahmirizalbudi), connect with me on [Email](fahmirizal.dev@gmail.com).
+[![My Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge)](https://github.com/fahmirizalbudi)
+[![My Showcase](https://img.shields.io/badge/Showcase-View-blue?style=for-the-badge)](https://github.com/fahmirizalbudi)
+
+Welcome to my GitHub profile, feel free to explore, **`connect, and collaborate`** as we build meaningful software together. Reach me at [me@fahmirizalbudi.dev](mailto:me@fahmirizalbudi.dev).

@@ -1,8 +1,9 @@
-I'm **`Fahmirizal Budi Ramadhan`**, a passionate **software engineering student dedicated to building scalable**, efficient, and elegant solutions from [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I specialize in web and mobile development, creating applications that combine clean architecture with real-world impact. Every repository on my profile reflects my curiosity, problem-solving skills, and commitment to writing maintainable, **`high quality code`**. I actively explore new technologies, bridge the gap between academic theory and practical implementation, and continuously refine my craft.
+### Hi, I'm Fahmirizal Budi Ramadhan 👋
 
-Over time, I have built projects spanning web applications, mobile apps, and experimental tools, all aimed at solving meaningful problems and learning in the process. I enjoy collaborating with fellow developers, sharing knowledge, and exploring innovative ways to push the boundaries of modern software development.
+Passionate **software engineering student** from [Indonesia](https://en.wikipedia.org/wiki/Indonesia), building **scalable, efficient, and elegant** web & mobile solutions, bridging theory with real-world impact through **high-quality code**.
 
-<a href="https://fahmirizalbudi.dev/"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" height="25"></a>
-<a href="https://showcase.fahmirizalbudi.dev/"><img src="https://img.shields.io/badge/Showcase-View-blue?style=for-the-badge" height="25"></a>
-
-Welcome to my GitHub profile, feel free to explore, **`connect, and collaborate`** as we build meaningful software together. Reach me at [me@fahmirizalbudi.dev](mailto:me@fahmirizalbudi.dev).
+<p>
+  <a href="https://fahmirizalbudi.dev/">֎ fahmirizalbudi.dev</a> &nbsp;·&nbsp;
+  <a href="https://showcase.fahmirizalbudi.dev/">✦ Showcase</a> &nbsp;·&nbsp;
+  <a href="mailto:me@fahmirizalbudi.dev">➤ me@fahmirizalbudi.dev</a>
+</p>

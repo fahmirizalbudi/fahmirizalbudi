@@ -1,6 +1,6 @@
 ### Hi, I'm Fahmirizal Budi Ramadhan 👋
 
-Passionate **software engineering student** from [Indonesia](https://en.wikipedia.org/wiki/Indonesia), building **scalable, efficient, and elegant** web & mobile solutions, bridging theory with real-world impact through **high-quality code**.
+Software engineering student from [Indonesia](https://en.wikipedia.org/wiki/Indonesia), focused on building scalable and efficient web & mobile applications, with an emphasis on clean, maintainable code and practical **problem solving**.
 
 <p>
   <a href="https://fahmirizalbudi.dev/">֎ fahmirizalbudi.dev</a> &nbsp;·&nbsp;
